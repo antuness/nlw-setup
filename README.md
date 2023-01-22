@@ -1,7 +1,7 @@
 <h1 align="center"> Habits </h1>
 
 <p align="center">
-NWL é um evento exclusivo e gratuito, promovido pela Rocketseat para ensino de tecnologias WEB. <br/>
+NWL é um evento exclusivo e gratuito, promovido pela Rocketseat para ensino de tecnologias WEB. Foi realizado em Janeiro/2023. <br/>
 </p>
 
 <p align="center">
